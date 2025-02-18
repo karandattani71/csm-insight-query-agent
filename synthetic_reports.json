@@ -1,537 +1,5 @@
 [
   {
-    "title": "Win/Loss Ratio Across APAC Sales Territories",
-    "description": "Analyzes competitive performance in APAC regions for the past Q3 2023.",
-    "metadata": {
-      "category": "Sales Performance",
-      "department": "Sales",
-      "tags": [
-        "win-loss",
-        "sales-territories",
-        "APAC"
-      ],
-      "keywords": [
-        "competitive analysis",
-        "regional performance",
-        "needily"
-      ],
-      "timeframe": "Q3 2023"
-    }
-  },
-  {
-    "title": "Customer Acquisition Cost by Social Media",
-    "description": "Breaks down customer acquisition costs for Social Media over the last Q2 2023.",
-    "metadata": {
-      "category": "Marketing Analytics",
-      "department": "Marketing",
-      "tags": [
-        "customer-acquisition",
-        "channel-cost",
-        "Social Media"
-      ],
-      "keywords": [
-        "cost breakdown",
-        "channel efficiency",
-        "lyre"
-      ],
-      "timeframe": "Q2 2023"
-    }
-  },
-  {
-    "title": "Win/Loss Ratio Across APAC Sales Territories",
-    "description": "Analyzes competitive performance in APAC regions for the past Q1 2023.",
-    "metadata": {
-      "category": "Sales Performance",
-      "department": "Sales",
-      "tags": [
-        "win-loss",
-        "sales-territories",
-        "APAC"
-      ],
-      "keywords": [
-        "competitive analysis",
-        "regional performance",
-        "finally"
-      ],
-      "timeframe": "Q1 2023"
-    }
-  },
-  {
-    "title": "Win/Loss Ratio Across Europe Sales Territories",
-    "description": "Analyzes competitive performance in Europe regions for the past Q2 2023.",
-    "metadata": {
-      "category": "Sales Performance",
-      "department": "Sales",
-      "tags": [
-        "win-loss",
-        "sales-territories",
-        "Europe"
-      ],
-      "keywords": [
-        "competitive analysis",
-        "regional performance",
-        "at"
-      ],
-      "timeframe": "Q2 2023"
-    }
-  },
-  {
-    "title": "Customer Acquisition Cost by Paid Ads",
-    "description": "Breaks down customer acquisition costs for Paid Ads over the last Q1 2023.",
-    "metadata": {
-      "category": "Marketing Analytics",
-      "department": "Marketing",
-      "tags": [
-        "customer-acquisition",
-        "channel-cost",
-        "Paid Ads"
-      ],
-      "keywords": [
-        "cost breakdown",
-        "channel efficiency",
-        "concentration"
-      ],
-      "timeframe": "Q1 2023"
-    }
-  },
-  {
-    "title": "Monthly Recurring Revenue Breakdown for Product A",
-    "description": "Provides a detailed breakdown of MRR for Product A across APAC.",
-    "metadata": {
-      "category": "Financial Analysis",
-      "department": "Finance",
-      "tags": [
-        "mrr",
-        "revenue",
-        "Product A"
-      ],
-      "keywords": [
-        "revenue analysis",
-        "product performance",
-        "until"
-      ],
-      "timeframe": "Q1 2023"
-    }
-  },
-  {
-    "title": "Win/Loss Ratio Across Europe Sales Territories",
-    "description": "Analyzes competitive performance in Europe regions for the past Q3 2023.",
-    "metadata": {
-      "category": "Sales Performance",
-      "department": "Sales",
-      "tags": [
-        "win-loss",
-        "sales-territories",
-        "Europe"
-      ],
-      "keywords": [
-        "competitive analysis",
-        "regional performance",
-        "meh"
-      ],
-      "timeframe": "Q3 2023"
-    }
-  },
-  {
-    "title": "Customer Acquisition Cost by Social Media",
-    "description": "Breaks down customer acquisition costs for Social Media over the last Q1 2023.",
-    "metadata": {
-      "category": "Marketing Analytics",
-      "department": "Marketing",
-      "tags": [
-        "customer-acquisition",
-        "channel-cost",
-        "Social Media"
-      ],
-      "keywords": [
-        "cost breakdown",
-        "channel efficiency",
-        "what"
-      ],
-      "timeframe": "Q1 2023"
-    }
-  },
-  {
-    "title": "Customer Acquisition Cost by Email",
-    "description": "Breaks down customer acquisition costs for Email over the last Q2 2023.",
-    "metadata": {
-      "category": "Marketing Analytics",
-      "department": "Marketing",
-      "tags": [
-        "customer-acquisition",
-        "channel-cost",
-        "Email"
-      ],
-      "keywords": [
-        "cost breakdown",
-        "channel efficiency",
-        "aboard"
-      ],
-      "timeframe": "Q2 2023"
-    }
-  },
-  {
-    "title": "Customer Acquisition Cost by Paid Ads",
-    "description": "Breaks down customer acquisition costs for Paid Ads over the last Q2 2023.",
-    "metadata": {
-      "category": "Marketing Analytics",
-      "department": "Marketing",
-      "tags": [
-        "customer-acquisition",
-        "channel-cost",
-        "Paid Ads"
-      ],
-      "keywords": [
-        "cost breakdown",
-        "channel efficiency",
-        "and"
-      ],
-      "timeframe": "Q2 2023"
-    }
-  },
-  {
-    "title": "Win/Loss Ratio Across Latin America Sales Territories",
-    "description": "Analyzes competitive performance in Latin America regions for the past Q3 2023.",
-    "metadata": {
-      "category": "Sales Performance",
-      "department": "Sales",
-      "tags": [
-        "win-loss",
-        "sales-territories",
-        "Latin America"
-      ],
-      "keywords": [
-        "competitive analysis",
-        "regional performance",
-        "oh"
-      ],
-      "timeframe": "Q3 2023"
-    }
-  },
-  {
-    "title": "Monthly Recurring Revenue Breakdown for Product C",
-    "description": "Provides a detailed breakdown of MRR for Product C across Europe.",
-    "metadata": {
-      "category": "Financial Analysis",
-      "department": "Finance",
-      "tags": [
-        "mrr",
-        "revenue",
-        "Product C"
-      ],
-      "keywords": [
-        "revenue analysis",
-        "product performance",
-        "beneath"
-      ],
-      "timeframe": "Q3 2023"
-    }
-  },
-  {
-    "title": "Win/Loss Ratio Across North America Sales Territories",
-    "description": "Analyzes competitive performance in North America regions for the past Q3 2023.",
-    "metadata": {
-      "category": "Sales Performance",
-      "department": "Sales",
-      "tags": [
-        "win-loss",
-        "sales-territories",
-        "North America"
-      ],
-      "keywords": [
-        "competitive analysis",
-        "regional performance",
-        "nor"
-      ],
-      "timeframe": "Q3 2023"
-    }
-  },
-  {
-    "title": "Customer Acquisition Cost by Social Media",
-    "description": "Breaks down customer acquisition costs for Social Media over the last Q1 2023.",
-    "metadata": {
-      "category": "Marketing Analytics",
-      "department": "Marketing",
-      "tags": [
-        "customer-acquisition",
-        "channel-cost",
-        "Social Media"
-      ],
-      "keywords": [
-        "cost breakdown",
-        "channel efficiency",
-        "hot"
-      ],
-      "timeframe": "Q1 2023"
-    }
-  },
-  {
-    "title": "Monthly Recurring Revenue Breakdown for Product C",
-    "description": "Provides a detailed breakdown of MRR for Product C across APAC.",
-    "metadata": {
-      "category": "Financial Analysis",
-      "department": "Finance",
-      "tags": [
-        "mrr",
-        "revenue",
-        "Product C"
-      ],
-      "keywords": [
-        "revenue analysis",
-        "product performance",
-        "mmm"
-      ],
-      "timeframe": "Q3 2023"
-    }
-  },
-  {
-    "title": "Customer Acquisition Cost by Social Media",
-    "description": "Breaks down customer acquisition costs for Social Media over the last Q3 2023.",
-    "metadata": {
-      "category": "Marketing Analytics",
-      "department": "Marketing",
-      "tags": [
-        "customer-acquisition",
-        "channel-cost",
-        "Social Media"
-      ],
-      "keywords": [
-        "cost breakdown",
-        "channel efficiency",
-        "verify"
-      ],
-      "timeframe": "Q3 2023"
-    }
-  },
-  {
-    "title": "Customer Acquisition Cost by Paid Ads",
-    "description": "Breaks down customer acquisition costs for Paid Ads over the last Q3 2023.",
-    "metadata": {
-      "category": "Marketing Analytics",
-      "department": "Marketing",
-      "tags": [
-        "customer-acquisition",
-        "channel-cost",
-        "Paid Ads"
-      ],
-      "keywords": [
-        "cost breakdown",
-        "channel efficiency",
-        "wherever"
-      ],
-      "timeframe": "Q3 2023"
-    }
-  },
-  {
-    "title": "Win/Loss Ratio Across Latin America Sales Territories",
-    "description": "Analyzes competitive performance in Latin America regions for the past Q2 2023.",
-    "metadata": {
-      "category": "Sales Performance",
-      "department": "Sales",
-      "tags": [
-        "win-loss",
-        "sales-territories",
-        "Latin America"
-      ],
-      "keywords": [
-        "competitive analysis",
-        "regional performance",
-        "safely"
-      ],
-      "timeframe": "Q2 2023"
-    }
-  },
-  {
-    "title": "Monthly Recurring Revenue Breakdown for Product C",
-    "description": "Provides a detailed breakdown of MRR for Product C across Latin America.",
-    "metadata": {
-      "category": "Financial Analysis",
-      "department": "Finance",
-      "tags": [
-        "mrr",
-        "revenue",
-        "Product C"
-      ],
-      "keywords": [
-        "revenue analysis",
-        "product performance",
-        "carp"
-      ],
-      "timeframe": "Q1 2023"
-    }
-  },
-  {
-    "title": "Customer Acquisition Cost by Email",
-    "description": "Breaks down customer acquisition costs for Email over the last Q1 2023.",
-    "metadata": {
-      "category": "Marketing Analytics",
-      "department": "Marketing",
-      "tags": [
-        "customer-acquisition",
-        "channel-cost",
-        "Email"
-      ],
-      "keywords": [
-        "cost breakdown",
-        "channel efficiency",
-        "object"
-      ],
-      "timeframe": "Q1 2023"
-    }
-  },
-  {
-    "title": "Win/Loss Ratio Across Latin America Sales Territories",
-    "description": "Analyzes competitive performance in Latin America regions for the past Q3 2023.",
-    "metadata": {
-      "category": "Sales Performance",
-      "department": "Sales",
-      "tags": [
-        "win-loss",
-        "sales-territories",
-        "Latin America"
-      ],
-      "keywords": [
-        "competitive analysis",
-        "regional performance",
-        "in"
-      ],
-      "timeframe": "Q3 2023"
-    }
-  },
-  {
-    "title": "Customer Acquisition Cost by Email",
-    "description": "Breaks down customer acquisition costs for Email over the last Q3 2023.",
-    "metadata": {
-      "category": "Marketing Analytics",
-      "department": "Marketing",
-      "tags": [
-        "customer-acquisition",
-        "channel-cost",
-        "Email"
-      ],
-      "keywords": [
-        "cost breakdown",
-        "channel efficiency",
-        "that"
-      ],
-      "timeframe": "Q3 2023"
-    }
-  },
-  {
-    "title": "Customer Acquisition Cost by Paid Ads",
-    "description": "Breaks down customer acquisition costs for Paid Ads over the last Q2 2023.",
-    "metadata": {
-      "category": "Marketing Analytics",
-      "department": "Marketing",
-      "tags": [
-        "customer-acquisition",
-        "channel-cost",
-        "Paid Ads"
-      ],
-      "keywords": [
-        "cost breakdown",
-        "channel efficiency",
-        "cork"
-      ],
-      "timeframe": "Q2 2023"
-    }
-  },
-  {
-    "title": "Win/Loss Ratio Across Latin America Sales Territories",
-    "description": "Analyzes competitive performance in Latin America regions for the past Q3 2023.",
-    "metadata": {
-      "category": "Sales Performance",
-      "department": "Sales",
-      "tags": [
-        "win-loss",
-        "sales-territories",
-        "Latin America"
-      ],
-      "keywords": [
-        "competitive analysis",
-        "regional performance",
-        "scared"
-      ],
-      "timeframe": "Q3 2023"
-    }
-  },
-  {
-    "title": "Monthly Recurring Revenue Breakdown for Product B",
-    "description": "Provides a detailed breakdown of MRR for Product B across Europe.",
-    "metadata": {
-      "category": "Financial Analysis",
-      "department": "Finance",
-      "tags": [
-        "mrr",
-        "revenue",
-        "Product B"
-      ],
-      "keywords": [
-        "revenue analysis",
-        "product performance",
-        "who"
-      ],
-      "timeframe": "Q3 2023"
-    }
-  },
-  {
-    "title": "Win/Loss Ratio Across Europe Sales Territories",
-    "description": "Analyzes competitive performance in Europe regions for the past Q1 2023.",
-    "metadata": {
-      "category": "Sales Performance",
-      "department": "Sales",
-      "tags": [
-        "win-loss",
-        "sales-territories",
-        "Europe"
-      ],
-      "keywords": [
-        "competitive analysis",
-        "regional performance",
-        "ha"
-      ],
-      "timeframe": "Q1 2023"
-    }
-  },
-  {
-    "title": "Customer Acquisition Cost by Email",
-    "description": "Breaks down customer acquisition costs for Email over the last Q1 2023.",
-    "metadata": {
-      "category": "Marketing Analytics",
-      "department": "Marketing",
-      "tags": [
-        "customer-acquisition",
-        "channel-cost",
-        "Email"
-      ],
-      "keywords": [
-        "cost breakdown",
-        "channel efficiency",
-        "aged"
-      ],
-      "timeframe": "Q1 2023"
-    }
-  },
-  {
-    "title": "Monthly Recurring Revenue Breakdown for Product A",
-    "description": "Provides a detailed breakdown of MRR for Product A across APAC.",
-    "metadata": {
-      "category": "Financial Analysis",
-      "department": "Finance",
-      "tags": [
-        "mrr",
-        "revenue",
-        "Product A"
-      ],
-      "keywords": [
-        "revenue analysis",
-        "product performance",
-        "furthermore"
-      ],
-      "timeframe": "Q3 2023"
-    }
-  },
-  {
     "title": "Monthly Recurring Revenue Breakdown for Product A",
     "description": "Provides a detailed breakdown of MRR for Product A across North America.",
     "metadata": {
@@ -545,577 +13,7 @@
       "keywords": [
         "revenue analysis",
         "product performance",
-        "delightfully"
-      ],
-      "timeframe": "Q2 2023"
-    }
-  },
-  {
-    "title": "Win/Loss Ratio Across North America Sales Territories",
-    "description": "Analyzes competitive performance in North America regions for the past Q3 2023.",
-    "metadata": {
-      "category": "Sales Performance",
-      "department": "Sales",
-      "tags": [
-        "win-loss",
-        "sales-territories",
-        "North America"
-      ],
-      "keywords": [
-        "competitive analysis",
-        "regional performance",
-        "miserably"
-      ],
-      "timeframe": "Q3 2023"
-    }
-  },
-  {
-    "title": "Monthly Recurring Revenue Breakdown for Product A",
-    "description": "Provides a detailed breakdown of MRR for Product A across Latin America.",
-    "metadata": {
-      "category": "Financial Analysis",
-      "department": "Finance",
-      "tags": [
-        "mrr",
-        "revenue",
-        "Product A"
-      ],
-      "keywords": [
-        "revenue analysis",
-        "product performance",
-        "under"
-      ],
-      "timeframe": "Q1 2023"
-    }
-  },
-  {
-    "title": "Win/Loss Ratio Across Europe Sales Territories",
-    "description": "Analyzes competitive performance in Europe regions for the past Q2 2023.",
-    "metadata": {
-      "category": "Sales Performance",
-      "department": "Sales",
-      "tags": [
-        "win-loss",
-        "sales-territories",
-        "Europe"
-      ],
-      "keywords": [
-        "competitive analysis",
-        "regional performance",
-        "linear"
-      ],
-      "timeframe": "Q2 2023"
-    }
-  },
-  {
-    "title": "Customer Acquisition Cost by Email",
-    "description": "Breaks down customer acquisition costs for Email over the last Q2 2023.",
-    "metadata": {
-      "category": "Marketing Analytics",
-      "department": "Marketing",
-      "tags": [
-        "customer-acquisition",
-        "channel-cost",
-        "Email"
-      ],
-      "keywords": [
-        "cost breakdown",
-        "channel efficiency",
-        "general"
-      ],
-      "timeframe": "Q2 2023"
-    }
-  },
-  {
-    "title": "Monthly Recurring Revenue Breakdown for Product C",
-    "description": "Provides a detailed breakdown of MRR for Product C across Latin America.",
-    "metadata": {
-      "category": "Financial Analysis",
-      "department": "Finance",
-      "tags": [
-        "mrr",
-        "revenue",
-        "Product C"
-      ],
-      "keywords": [
-        "revenue analysis",
-        "product performance",
-        "punctuation"
-      ],
-      "timeframe": "Q2 2023"
-    }
-  },
-  {
-    "title": "Monthly Recurring Revenue Breakdown for Product B",
-    "description": "Provides a detailed breakdown of MRR for Product B across North America.",
-    "metadata": {
-      "category": "Financial Analysis",
-      "department": "Finance",
-      "tags": [
-        "mrr",
-        "revenue",
-        "Product B"
-      ],
-      "keywords": [
-        "revenue analysis",
-        "product performance",
-        "colorfully"
-      ],
-      "timeframe": "Q1 2023"
-    }
-  },
-  {
-    "title": "Win/Loss Ratio Across APAC Sales Territories",
-    "description": "Analyzes competitive performance in APAC regions for the past Q3 2023.",
-    "metadata": {
-      "category": "Sales Performance",
-      "department": "Sales",
-      "tags": [
-        "win-loss",
-        "sales-territories",
-        "APAC"
-      ],
-      "keywords": [
-        "competitive analysis",
-        "regional performance",
-        "enormously"
-      ],
-      "timeframe": "Q3 2023"
-    }
-  },
-  {
-    "title": "Customer Acquisition Cost by Paid Ads",
-    "description": "Breaks down customer acquisition costs for Paid Ads over the last Q2 2023.",
-    "metadata": {
-      "category": "Marketing Analytics",
-      "department": "Marketing",
-      "tags": [
-        "customer-acquisition",
-        "channel-cost",
-        "Paid Ads"
-      ],
-      "keywords": [
-        "cost breakdown",
-        "channel efficiency",
-        "shoulder"
-      ],
-      "timeframe": "Q2 2023"
-    }
-  },
-  {
-    "title": "Monthly Recurring Revenue Breakdown for Product A",
-    "description": "Provides a detailed breakdown of MRR for Product A across North America.",
-    "metadata": {
-      "category": "Financial Analysis",
-      "department": "Finance",
-      "tags": [
-        "mrr",
-        "revenue",
-        "Product A"
-      ],
-      "keywords": [
-        "revenue analysis",
-        "product performance",
-        "since"
-      ],
-      "timeframe": "Q1 2023"
-    }
-  },
-  {
-    "title": "Win/Loss Ratio Across APAC Sales Territories",
-    "description": "Analyzes competitive performance in APAC regions for the past Q3 2023.",
-    "metadata": {
-      "category": "Sales Performance",
-      "department": "Sales",
-      "tags": [
-        "win-loss",
-        "sales-territories",
-        "APAC"
-      ],
-      "keywords": [
-        "competitive analysis",
-        "regional performance",
-        "pivot"
-      ],
-      "timeframe": "Q3 2023"
-    }
-  },
-  {
-    "title": "Win/Loss Ratio Across Europe Sales Territories",
-    "description": "Analyzes competitive performance in Europe regions for the past Q1 2023.",
-    "metadata": {
-      "category": "Sales Performance",
-      "department": "Sales",
-      "tags": [
-        "win-loss",
-        "sales-territories",
-        "Europe"
-      ],
-      "keywords": [
-        "competitive analysis",
-        "regional performance",
-        "pish"
-      ],
-      "timeframe": "Q1 2023"
-    }
-  },
-  {
-    "title": "Win/Loss Ratio Across APAC Sales Territories",
-    "description": "Analyzes competitive performance in APAC regions for the past Q2 2023.",
-    "metadata": {
-      "category": "Sales Performance",
-      "department": "Sales",
-      "tags": [
-        "win-loss",
-        "sales-territories",
-        "APAC"
-      ],
-      "keywords": [
-        "competitive analysis",
-        "regional performance",
-        "than"
-      ],
-      "timeframe": "Q2 2023"
-    }
-  },
-  {
-    "title": "Customer Acquisition Cost by Paid Ads",
-    "description": "Breaks down customer acquisition costs for Paid Ads over the last Q3 2023.",
-    "metadata": {
-      "category": "Marketing Analytics",
-      "department": "Marketing",
-      "tags": [
-        "customer-acquisition",
-        "channel-cost",
-        "Paid Ads"
-      ],
-      "keywords": [
-        "cost breakdown",
-        "channel efficiency",
-        "coolly"
-      ],
-      "timeframe": "Q3 2023"
-    }
-  },
-  {
-    "title": "Win/Loss Ratio Across North America Sales Territories",
-    "description": "Analyzes competitive performance in North America regions for the past Q2 2023.",
-    "metadata": {
-      "category": "Sales Performance",
-      "department": "Sales",
-      "tags": [
-        "win-loss",
-        "sales-territories",
-        "North America"
-      ],
-      "keywords": [
-        "competitive analysis",
-        "regional performance",
-        "passionate"
-      ],
-      "timeframe": "Q2 2023"
-    }
-  },
-  {
-    "title": "Customer Acquisition Cost by Paid Ads",
-    "description": "Breaks down customer acquisition costs for Paid Ads over the last Q2 2023.",
-    "metadata": {
-      "category": "Marketing Analytics",
-      "department": "Marketing",
-      "tags": [
-        "customer-acquisition",
-        "channel-cost",
-        "Paid Ads"
-      ],
-      "keywords": [
-        "cost breakdown",
-        "channel efficiency",
-        "hm"
-      ],
-      "timeframe": "Q2 2023"
-    }
-  },
-  {
-    "title": "Customer Acquisition Cost by Email",
-    "description": "Breaks down customer acquisition costs for Email over the last Q2 2023.",
-    "metadata": {
-      "category": "Marketing Analytics",
-      "department": "Marketing",
-      "tags": [
-        "customer-acquisition",
-        "channel-cost",
-        "Email"
-      ],
-      "keywords": [
-        "cost breakdown",
-        "channel efficiency",
-        "woot"
-      ],
-      "timeframe": "Q2 2023"
-    }
-  },
-  {
-    "title": "Win/Loss Ratio Across Latin America Sales Territories",
-    "description": "Analyzes competitive performance in Latin America regions for the past Q3 2023.",
-    "metadata": {
-      "category": "Sales Performance",
-      "department": "Sales",
-      "tags": [
-        "win-loss",
-        "sales-territories",
-        "Latin America"
-      ],
-      "keywords": [
-        "competitive analysis",
-        "regional performance",
-        "quintessential"
-      ],
-      "timeframe": "Q3 2023"
-    }
-  },
-  {
-    "title": "Win/Loss Ratio Across APAC Sales Territories",
-    "description": "Analyzes competitive performance in APAC regions for the past Q1 2023.",
-    "metadata": {
-      "category": "Sales Performance",
-      "department": "Sales",
-      "tags": [
-        "win-loss",
-        "sales-territories",
-        "APAC"
-      ],
-      "keywords": [
-        "competitive analysis",
-        "regional performance",
-        "scarcely"
-      ],
-      "timeframe": "Q1 2023"
-    }
-  },
-  {
-    "title": "Customer Acquisition Cost by Social Media",
-    "description": "Breaks down customer acquisition costs for Social Media over the last Q1 2023.",
-    "metadata": {
-      "category": "Marketing Analytics",
-      "department": "Marketing",
-      "tags": [
-        "customer-acquisition",
-        "channel-cost",
-        "Social Media"
-      ],
-      "keywords": [
-        "cost breakdown",
-        "channel efficiency",
-        "amid"
-      ],
-      "timeframe": "Q1 2023"
-    }
-  },
-  {
-    "title": "Win/Loss Ratio Across APAC Sales Territories",
-    "description": "Analyzes competitive performance in APAC regions for the past Q1 2023.",
-    "metadata": {
-      "category": "Sales Performance",
-      "department": "Sales",
-      "tags": [
-        "win-loss",
-        "sales-territories",
-        "APAC"
-      ],
-      "keywords": [
-        "competitive analysis",
-        "regional performance",
-        "helpfully"
-      ],
-      "timeframe": "Q1 2023"
-    }
-  },
-  {
-    "title": "Customer Acquisition Cost by Paid Ads",
-    "description": "Breaks down customer acquisition costs for Paid Ads over the last Q2 2023.",
-    "metadata": {
-      "category": "Marketing Analytics",
-      "department": "Marketing",
-      "tags": [
-        "customer-acquisition",
-        "channel-cost",
-        "Paid Ads"
-      ],
-      "keywords": [
-        "cost breakdown",
-        "channel efficiency",
-        "meanwhile"
-      ],
-      "timeframe": "Q2 2023"
-    }
-  },
-  {
-    "title": "Monthly Recurring Revenue Breakdown for Product B",
-    "description": "Provides a detailed breakdown of MRR for Product B across Europe.",
-    "metadata": {
-      "category": "Financial Analysis",
-      "department": "Finance",
-      "tags": [
-        "mrr",
-        "revenue",
-        "Product B"
-      ],
-      "keywords": [
-        "revenue analysis",
-        "product performance",
-        "buzzing"
-      ],
-      "timeframe": "Q2 2023"
-    }
-  },
-  {
-    "title": "Customer Acquisition Cost by Paid Ads",
-    "description": "Breaks down customer acquisition costs for Paid Ads over the last Q2 2023.",
-    "metadata": {
-      "category": "Marketing Analytics",
-      "department": "Marketing",
-      "tags": [
-        "customer-acquisition",
-        "channel-cost",
-        "Paid Ads"
-      ],
-      "keywords": [
-        "cost breakdown",
-        "channel efficiency",
-        "lazily"
-      ],
-      "timeframe": "Q2 2023"
-    }
-  },
-  {
-    "title": "Customer Acquisition Cost by Social Media",
-    "description": "Breaks down customer acquisition costs for Social Media over the last Q1 2023.",
-    "metadata": {
-      "category": "Marketing Analytics",
-      "department": "Marketing",
-      "tags": [
-        "customer-acquisition",
-        "channel-cost",
-        "Social Media"
-      ],
-      "keywords": [
-        "cost breakdown",
-        "channel efficiency",
-        "even"
-      ],
-      "timeframe": "Q1 2023"
-    }
-  },
-  {
-    "title": "Win/Loss Ratio Across Latin America Sales Territories",
-    "description": "Analyzes competitive performance in Latin America regions for the past Q1 2023.",
-    "metadata": {
-      "category": "Sales Performance",
-      "department": "Sales",
-      "tags": [
-        "win-loss",
-        "sales-territories",
-        "Latin America"
-      ],
-      "keywords": [
-        "competitive analysis",
-        "regional performance",
-        "before"
-      ],
-      "timeframe": "Q1 2023"
-    }
-  },
-  {
-    "title": "Win/Loss Ratio Across APAC Sales Territories",
-    "description": "Analyzes competitive performance in APAC regions for the past Q2 2023.",
-    "metadata": {
-      "category": "Sales Performance",
-      "department": "Sales",
-      "tags": [
-        "win-loss",
-        "sales-territories",
-        "APAC"
-      ],
-      "keywords": [
-        "competitive analysis",
-        "regional performance",
-        "qua"
-      ],
-      "timeframe": "Q2 2023"
-    }
-  },
-  {
-    "title": "Win/Loss Ratio Across APAC Sales Territories",
-    "description": "Analyzes competitive performance in APAC regions for the past Q3 2023.",
-    "metadata": {
-      "category": "Sales Performance",
-      "department": "Sales",
-      "tags": [
-        "win-loss",
-        "sales-territories",
-        "APAC"
-      ],
-      "keywords": [
-        "competitive analysis",
-        "regional performance",
-        "and"
-      ],
-      "timeframe": "Q3 2023"
-    }
-  },
-  {
-    "title": "Monthly Recurring Revenue Breakdown for Product C",
-    "description": "Provides a detailed breakdown of MRR for Product C across North America.",
-    "metadata": {
-      "category": "Financial Analysis",
-      "department": "Finance",
-      "tags": [
-        "mrr",
-        "revenue",
-        "Product C"
-      ],
-      "keywords": [
-        "revenue analysis",
-        "product performance",
-        "agreement"
-      ],
-      "timeframe": "Q2 2023"
-    }
-  },
-  {
-    "title": "Win/Loss Ratio Across North America Sales Territories",
-    "description": "Analyzes competitive performance in North America regions for the past Q3 2023.",
-    "metadata": {
-      "category": "Sales Performance",
-      "department": "Sales",
-      "tags": [
-        "win-loss",
-        "sales-territories",
-        "North America"
-      ],
-      "keywords": [
-        "competitive analysis",
-        "regional performance",
-        "ouch"
-      ],
-      "timeframe": "Q3 2023"
-    }
-  },
-  {
-    "title": "Win/Loss Ratio Across North America Sales Territories",
-    "description": "Analyzes competitive performance in North America regions for the past Q2 2023.",
-    "metadata": {
-      "category": "Sales Performance",
-      "department": "Sales",
-      "tags": [
-        "win-loss",
-        "sales-territories",
-        "North America"
-      ],
-      "keywords": [
-        "competitive analysis",
-        "regional performance",
-        "transparency"
+        "extroverted"
       ],
       "timeframe": "Q2 2023"
     }
@@ -1134,109 +32,14 @@
       "keywords": [
         "revenue analysis",
         "product performance",
-        "innocently"
+        "traduce"
       ],
       "timeframe": "Q1 2023"
-    }
-  },
-  {
-    "title": "Win/Loss Ratio Across North America Sales Territories",
-    "description": "Analyzes competitive performance in North America regions for the past Q1 2023.",
-    "metadata": {
-      "category": "Sales Performance",
-      "department": "Sales",
-      "tags": [
-        "win-loss",
-        "sales-territories",
-        "North America"
-      ],
-      "keywords": [
-        "competitive analysis",
-        "regional performance",
-        "without"
-      ],
-      "timeframe": "Q1 2023"
-    }
-  },
-  {
-    "title": "Win/Loss Ratio Across Europe Sales Territories",
-    "description": "Analyzes competitive performance in Europe regions for the past Q2 2023.",
-    "metadata": {
-      "category": "Sales Performance",
-      "department": "Sales",
-      "tags": [
-        "win-loss",
-        "sales-territories",
-        "Europe"
-      ],
-      "keywords": [
-        "competitive analysis",
-        "regional performance",
-        "tattered"
-      ],
-      "timeframe": "Q2 2023"
-    }
-  },
-  {
-    "title": "Monthly Recurring Revenue Breakdown for Product C",
-    "description": "Provides a detailed breakdown of MRR for Product C across APAC.",
-    "metadata": {
-      "category": "Financial Analysis",
-      "department": "Finance",
-      "tags": [
-        "mrr",
-        "revenue",
-        "Product C"
-      ],
-      "keywords": [
-        "revenue analysis",
-        "product performance",
-        "onto"
-      ],
-      "timeframe": "Q3 2023"
-    }
-  },
-  {
-    "title": "Monthly Recurring Revenue Breakdown for Product C",
-    "description": "Provides a detailed breakdown of MRR for Product C across Latin America.",
-    "metadata": {
-      "category": "Financial Analysis",
-      "department": "Finance",
-      "tags": [
-        "mrr",
-        "revenue",
-        "Product C"
-      ],
-      "keywords": [
-        "revenue analysis",
-        "product performance",
-        "which"
-      ],
-      "timeframe": "Q1 2023"
-    }
-  },
-  {
-    "title": "Monthly Recurring Revenue Breakdown for Product C",
-    "description": "Provides a detailed breakdown of MRR for Product C across North America.",
-    "metadata": {
-      "category": "Financial Analysis",
-      "department": "Finance",
-      "tags": [
-        "mrr",
-        "revenue",
-        "Product C"
-      ],
-      "keywords": [
-        "revenue analysis",
-        "product performance",
-        "swear"
-      ],
-      "timeframe": "Q3 2023"
     }
   },
   {
     "title": "Monthly Recurring Revenue Breakdown for Product B",
-    "description": "Provides a detailed breakdown of MRR for Product B across Europe.",
+    "description": "Provides a detailed breakdown of MRR for Product B across Latin America.",
     "metadata": {
       "category": "Financial Analysis",
       "department": "Finance",
@@ -1248,121 +51,64 @@
       "keywords": [
         "revenue analysis",
         "product performance",
-        "yuck"
+        "er"
       ],
-      "timeframe": "Q2 2023"
+      "timeframe": "Q1 2023"
     }
   },
   {
-    "title": "Customer Acquisition Cost by Social Media",
-    "description": "Breaks down customer acquisition costs for Social Media over the last Q3 2023.",
-    "metadata": {
-      "category": "Marketing Analytics",
-      "department": "Marketing",
-      "tags": [
-        "customer-acquisition",
-        "channel-cost",
-        "Social Media"
-      ],
-      "keywords": [
-        "cost breakdown",
-        "channel efficiency",
-        "jury"
-      ],
-      "timeframe": "Q3 2023"
-    }
-  },
-  {
-    "title": "Win/Loss Ratio Across APAC Sales Territories",
-    "description": "Analyzes competitive performance in APAC regions for the past Q3 2023.",
-    "metadata": {
-      "category": "Sales Performance",
-      "department": "Sales",
-      "tags": [
-        "win-loss",
-        "sales-territories",
-        "APAC"
-      ],
-      "keywords": [
-        "competitive analysis",
-        "regional performance",
-        "yuck"
-      ],
-      "timeframe": "Q3 2023"
-    }
-  },
-  {
-    "title": "Customer Acquisition Cost by Paid Ads",
-    "description": "Breaks down customer acquisition costs for Paid Ads over the last Q2 2023.",
-    "metadata": {
-      "category": "Marketing Analytics",
-      "department": "Marketing",
-      "tags": [
-        "customer-acquisition",
-        "channel-cost",
-        "Paid Ads"
-      ],
-      "keywords": [
-        "cost breakdown",
-        "channel efficiency",
-        "draft"
-      ],
-      "timeframe": "Q2 2023"
-    }
-  },
-  {
-    "title": "Customer Acquisition Cost by Social Media",
-    "description": "Breaks down customer acquisition costs for Social Media over the last Q2 2023.",
-    "metadata": {
-      "category": "Marketing Analytics",
-      "department": "Marketing",
-      "tags": [
-        "customer-acquisition",
-        "channel-cost",
-        "Social Media"
-      ],
-      "keywords": [
-        "cost breakdown",
-        "channel efficiency",
-        "per"
-      ],
-      "timeframe": "Q2 2023"
-    }
-  },
-  {
-    "title": "Customer Acquisition Cost by Social Media",
-    "description": "Breaks down customer acquisition costs for Social Media over the last Q2 2023.",
-    "metadata": {
-      "category": "Marketing Analytics",
-      "department": "Marketing",
-      "tags": [
-        "customer-acquisition",
-        "channel-cost",
-        "Social Media"
-      ],
-      "keywords": [
-        "cost breakdown",
-        "channel efficiency",
-        "hollow"
-      ],
-      "timeframe": "Q2 2023"
-    }
-  },
-  {
-    "title": "Monthly Recurring Revenue Breakdown for Product C",
-    "description": "Provides a detailed breakdown of MRR for Product C across APAC.",
+    "title": "Monthly Recurring Revenue Breakdown for Product B",
+    "description": "Provides a detailed breakdown of MRR for Product B across North America.",
     "metadata": {
       "category": "Financial Analysis",
       "department": "Finance",
       "tags": [
         "mrr",
         "revenue",
-        "Product C"
+        "Product B"
       ],
       "keywords": [
         "revenue analysis",
         "product performance",
-        "divine"
+        "whoa"
+      ],
+      "timeframe": "Q3 2023"
+    }
+  },
+  {
+    "title": "Customer Acquisition Cost by Social Media",
+    "description": "Breaks down customer acquisition costs for Social Media over the last Q2 2023.",
+    "metadata": {
+      "category": "Marketing Analytics",
+      "department": "Marketing",
+      "tags": [
+        "customer-acquisition",
+        "channel-cost",
+        "Social Media"
+      ],
+      "keywords": [
+        "cost breakdown",
+        "channel efficiency",
+        "swing"
+      ],
+      "timeframe": "Q2 2023"
+    }
+  },
+  {
+    "title": "Monthly Recurring Revenue Breakdown for Product A",
+    "description": "Provides a detailed breakdown of MRR for Product A across Europe.",
+    "metadata": {
+      "category": "Financial Analysis",
+      "department": "Finance",
+      "tags": [
+        "mrr",
+        "revenue",
+        "Product A"
+      ],
+      "keywords": [
+        "revenue analysis",
+        "product performance",
+        "hold"
       ],
       "timeframe": "Q3 2023"
     }
@@ -1381,299 +127,14 @@
       "keywords": [
         "competitive analysis",
         "regional performance",
-        "whoa"
+        "always"
       ],
       "timeframe": "Q2 2023"
-    }
-  },
-  {
-    "title": "Win/Loss Ratio Across APAC Sales Territories",
-    "description": "Analyzes competitive performance in APAC regions for the past Q1 2023.",
-    "metadata": {
-      "category": "Sales Performance",
-      "department": "Sales",
-      "tags": [
-        "win-loss",
-        "sales-territories",
-        "APAC"
-      ],
-      "keywords": [
-        "competitive analysis",
-        "regional performance",
-        "speedily"
-      ],
-      "timeframe": "Q1 2023"
-    }
-  },
-  {
-    "title": "Customer Acquisition Cost by Email",
-    "description": "Breaks down customer acquisition costs for Email over the last Q3 2023.",
-    "metadata": {
-      "category": "Marketing Analytics",
-      "department": "Marketing",
-      "tags": [
-        "customer-acquisition",
-        "channel-cost",
-        "Email"
-      ],
-      "keywords": [
-        "cost breakdown",
-        "channel efficiency",
-        "up"
-      ],
-      "timeframe": "Q3 2023"
-    }
-  },
-  {
-    "title": "Customer Acquisition Cost by Paid Ads",
-    "description": "Breaks down customer acquisition costs for Paid Ads over the last Q2 2023.",
-    "metadata": {
-      "category": "Marketing Analytics",
-      "department": "Marketing",
-      "tags": [
-        "customer-acquisition",
-        "channel-cost",
-        "Paid Ads"
-      ],
-      "keywords": [
-        "cost breakdown",
-        "channel efficiency",
-        "actual"
-      ],
-      "timeframe": "Q2 2023"
-    }
-  },
-  {
-    "title": "Win/Loss Ratio Across Latin America Sales Territories",
-    "description": "Analyzes competitive performance in Latin America regions for the past Q1 2023.",
-    "metadata": {
-      "category": "Sales Performance",
-      "department": "Sales",
-      "tags": [
-        "win-loss",
-        "sales-territories",
-        "Latin America"
-      ],
-      "keywords": [
-        "competitive analysis",
-        "regional performance",
-        "commercial"
-      ],
-      "timeframe": "Q1 2023"
-    }
-  },
-  {
-    "title": "Monthly Recurring Revenue Breakdown for Product B",
-    "description": "Provides a detailed breakdown of MRR for Product B across Europe.",
-    "metadata": {
-      "category": "Financial Analysis",
-      "department": "Finance",
-      "tags": [
-        "mrr",
-        "revenue",
-        "Product B"
-      ],
-      "keywords": [
-        "revenue analysis",
-        "product performance",
-        "neat"
-      ],
-      "timeframe": "Q3 2023"
-    }
-  },
-  {
-    "title": "Win/Loss Ratio Across Latin America Sales Territories",
-    "description": "Analyzes competitive performance in Latin America regions for the past Q3 2023.",
-    "metadata": {
-      "category": "Sales Performance",
-      "department": "Sales",
-      "tags": [
-        "win-loss",
-        "sales-territories",
-        "Latin America"
-      ],
-      "keywords": [
-        "competitive analysis",
-        "regional performance",
-        "phooey"
-      ],
-      "timeframe": "Q3 2023"
-    }
-  },
-  {
-    "title": "Win/Loss Ratio Across North America Sales Territories",
-    "description": "Analyzes competitive performance in North America regions for the past Q3 2023.",
-    "metadata": {
-      "category": "Sales Performance",
-      "department": "Sales",
-      "tags": [
-        "win-loss",
-        "sales-territories",
-        "North America"
-      ],
-      "keywords": [
-        "competitive analysis",
-        "regional performance",
-        "mmm"
-      ],
-      "timeframe": "Q3 2023"
-    }
-  },
-  {
-    "title": "Win/Loss Ratio Across APAC Sales Territories",
-    "description": "Analyzes competitive performance in APAC regions for the past Q1 2023.",
-    "metadata": {
-      "category": "Sales Performance",
-      "department": "Sales",
-      "tags": [
-        "win-loss",
-        "sales-territories",
-        "APAC"
-      ],
-      "keywords": [
-        "competitive analysis",
-        "regional performance",
-        "trust"
-      ],
-      "timeframe": "Q1 2023"
-    }
-  },
-  {
-    "title": "Win/Loss Ratio Across Europe Sales Territories",
-    "description": "Analyzes competitive performance in Europe regions for the past Q3 2023.",
-    "metadata": {
-      "category": "Sales Performance",
-      "department": "Sales",
-      "tags": [
-        "win-loss",
-        "sales-territories",
-        "Europe"
-      ],
-      "keywords": [
-        "competitive analysis",
-        "regional performance",
-        "jealously"
-      ],
-      "timeframe": "Q3 2023"
-    }
-  },
-  {
-    "title": "Customer Acquisition Cost by Social Media",
-    "description": "Breaks down customer acquisition costs for Social Media over the last Q2 2023.",
-    "metadata": {
-      "category": "Marketing Analytics",
-      "department": "Marketing",
-      "tags": [
-        "customer-acquisition",
-        "channel-cost",
-        "Social Media"
-      ],
-      "keywords": [
-        "cost breakdown",
-        "channel efficiency",
-        "despite"
-      ],
-      "timeframe": "Q2 2023"
-    }
-  },
-  {
-    "title": "Win/Loss Ratio Across Latin America Sales Territories",
-    "description": "Analyzes competitive performance in Latin America regions for the past Q3 2023.",
-    "metadata": {
-      "category": "Sales Performance",
-      "department": "Sales",
-      "tags": [
-        "win-loss",
-        "sales-territories",
-        "Latin America"
-      ],
-      "keywords": [
-        "competitive analysis",
-        "regional performance",
-        "save"
-      ],
-      "timeframe": "Q3 2023"
-    }
-  },
-  {
-    "title": "Customer Acquisition Cost by Email",
-    "description": "Breaks down customer acquisition costs for Email over the last Q2 2023.",
-    "metadata": {
-      "category": "Marketing Analytics",
-      "department": "Marketing",
-      "tags": [
-        "customer-acquisition",
-        "channel-cost",
-        "Email"
-      ],
-      "keywords": [
-        "cost breakdown",
-        "channel efficiency",
-        "including"
-      ],
-      "timeframe": "Q2 2023"
-    }
-  },
-  {
-    "title": "Monthly Recurring Revenue Breakdown for Product C",
-    "description": "Provides a detailed breakdown of MRR for Product C across North America.",
-    "metadata": {
-      "category": "Financial Analysis",
-      "department": "Finance",
-      "tags": [
-        "mrr",
-        "revenue",
-        "Product C"
-      ],
-      "keywords": [
-        "revenue analysis",
-        "product performance",
-        "happily"
-      ],
-      "timeframe": "Q2 2023"
-    }
-  },
-  {
-    "title": "Monthly Recurring Revenue Breakdown for Product C",
-    "description": "Provides a detailed breakdown of MRR for Product C across North America.",
-    "metadata": {
-      "category": "Financial Analysis",
-      "department": "Finance",
-      "tags": [
-        "mrr",
-        "revenue",
-        "Product C"
-      ],
-      "keywords": [
-        "revenue analysis",
-        "product performance",
-        "briefly"
-      ],
-      "timeframe": "Q2 2023"
-    }
-  },
-  {
-    "title": "Win/Loss Ratio Across North America Sales Territories",
-    "description": "Analyzes competitive performance in North America regions for the past Q1 2023.",
-    "metadata": {
-      "category": "Sales Performance",
-      "department": "Sales",
-      "tags": [
-        "win-loss",
-        "sales-territories",
-        "North America"
-      ],
-      "keywords": [
-        "competitive analysis",
-        "regional performance",
-        "before"
-      ],
-      "timeframe": "Q1 2023"
     }
   },
   {
     "title": "Monthly Recurring Revenue Breakdown for Product A",
-    "description": "Provides a detailed breakdown of MRR for Product A across Europe.",
+    "description": "Provides a detailed breakdown of MRR for Product A across North America.",
     "metadata": {
       "category": "Financial Analysis",
       "department": "Finance",
@@ -1685,26 +146,7 @@
       "keywords": [
         "revenue analysis",
         "product performance",
-        "whoever"
-      ],
-      "timeframe": "Q3 2023"
-    }
-  },
-  {
-    "title": "Monthly Recurring Revenue Breakdown for Product A",
-    "description": "Provides a detailed breakdown of MRR for Product A across Europe.",
-    "metadata": {
-      "category": "Financial Analysis",
-      "department": "Finance",
-      "tags": [
-        "mrr",
-        "revenue",
-        "Product A"
-      ],
-      "keywords": [
-        "revenue analysis",
-        "product performance",
-        "amidst"
+        "circa"
       ],
       "timeframe": "Q3 2023"
     }
@@ -1723,28 +165,180 @@
       "keywords": [
         "competitive analysis",
         "regional performance",
-        "ha"
+        "fathom"
       ],
       "timeframe": "Q1 2023"
     }
   },
   {
-    "title": "Win/Loss Ratio Across North America Sales Territories",
-    "description": "Analyzes competitive performance in North America regions for the past Q3 2023.",
+    "title": "Monthly Recurring Revenue Breakdown for Product B",
+    "description": "Provides a detailed breakdown of MRR for Product B across APAC.",
+    "metadata": {
+      "category": "Financial Analysis",
+      "department": "Finance",
+      "tags": [
+        "mrr",
+        "revenue",
+        "Product B"
+      ],
+      "keywords": [
+        "revenue analysis",
+        "product performance",
+        "among"
+      ],
+      "timeframe": "Q2 2023"
+    }
+  },
+  {
+    "title": "Customer Acquisition Cost by Paid Ads",
+    "description": "Breaks down customer acquisition costs for Paid Ads over the last Q3 2023.",
+    "metadata": {
+      "category": "Marketing Analytics",
+      "department": "Marketing",
+      "tags": [
+        "customer-acquisition",
+        "channel-cost",
+        "Paid Ads"
+      ],
+      "keywords": [
+        "cost breakdown",
+        "channel efficiency",
+        "indeed"
+      ],
+      "timeframe": "Q3 2023"
+    }
+  },
+  {
+    "title": "Customer Acquisition Cost by Email",
+    "description": "Breaks down customer acquisition costs for Email over the last Q3 2023.",
+    "metadata": {
+      "category": "Marketing Analytics",
+      "department": "Marketing",
+      "tags": [
+        "customer-acquisition",
+        "channel-cost",
+        "Email"
+      ],
+      "keywords": [
+        "cost breakdown",
+        "channel efficiency",
+        "with"
+      ],
+      "timeframe": "Q3 2023"
+    }
+  },
+  {
+    "title": "Monthly Recurring Revenue Breakdown for Product A",
+    "description": "Provides a detailed breakdown of MRR for Product A across APAC.",
+    "metadata": {
+      "category": "Financial Analysis",
+      "department": "Finance",
+      "tags": [
+        "mrr",
+        "revenue",
+        "Product A"
+      ],
+      "keywords": [
+        "revenue analysis",
+        "product performance",
+        "bind"
+      ],
+      "timeframe": "Q3 2023"
+    }
+  },
+  {
+    "title": "Customer Acquisition Cost by Social Media",
+    "description": "Breaks down customer acquisition costs for Social Media over the last Q1 2023.",
+    "metadata": {
+      "category": "Marketing Analytics",
+      "department": "Marketing",
+      "tags": [
+        "customer-acquisition",
+        "channel-cost",
+        "Social Media"
+      ],
+      "keywords": [
+        "cost breakdown",
+        "channel efficiency",
+        "from"
+      ],
+      "timeframe": "Q1 2023"
+    }
+  },
+  {
+    "title": "Win/Loss Ratio Across Europe Sales Territories",
+    "description": "Analyzes competitive performance in Europe regions for the past Q3 2023.",
     "metadata": {
       "category": "Sales Performance",
       "department": "Sales",
       "tags": [
         "win-loss",
         "sales-territories",
-        "North America"
+        "Europe"
       ],
       "keywords": [
         "competitive analysis",
         "regional performance",
-        "whoever"
+        "delicious"
       ],
       "timeframe": "Q3 2023"
+    }
+  },
+  {
+    "title": "Win/Loss Ratio Across Europe Sales Territories",
+    "description": "Analyzes competitive performance in Europe regions for the past Q1 2023.",
+    "metadata": {
+      "category": "Sales Performance",
+      "department": "Sales",
+      "tags": [
+        "win-loss",
+        "sales-territories",
+        "Europe"
+      ],
+      "keywords": [
+        "competitive analysis",
+        "regional performance",
+        "flustered"
+      ],
+      "timeframe": "Q1 2023"
+    }
+  },
+  {
+    "title": "Win/Loss Ratio Across Europe Sales Territories",
+    "description": "Analyzes competitive performance in Europe regions for the past Q1 2023.",
+    "metadata": {
+      "category": "Sales Performance",
+      "department": "Sales",
+      "tags": [
+        "win-loss",
+        "sales-territories",
+        "Europe"
+      ],
+      "keywords": [
+        "competitive analysis",
+        "regional performance",
+        "oof"
+      ],
+      "timeframe": "Q1 2023"
+    }
+  },
+  {
+    "title": "Customer Acquisition Cost by Paid Ads",
+    "description": "Breaks down customer acquisition costs for Paid Ads over the last Q2 2023.",
+    "metadata": {
+      "category": "Marketing Analytics",
+      "department": "Marketing",
+      "tags": [
+        "customer-acquisition",
+        "channel-cost",
+        "Paid Ads"
+      ],
+      "keywords": [
+        "cost breakdown",
+        "channel efficiency",
+        "overproduce"
+      ],
+      "timeframe": "Q2 2023"
     }
   },
   {
@@ -1761,66 +355,66 @@
       "keywords": [
         "cost breakdown",
         "channel efficiency",
-        "government"
+        "blah"
       ],
       "timeframe": "Q3 2023"
     }
   },
   {
-    "title": "Monthly Recurring Revenue Breakdown for Product A",
-    "description": "Provides a detailed breakdown of MRR for Product A across Latin America.",
+    "title": "Customer Acquisition Cost by Email",
+    "description": "Breaks down customer acquisition costs for Email over the last Q2 2023.",
     "metadata": {
-      "category": "Financial Analysis",
-      "department": "Finance",
+      "category": "Marketing Analytics",
+      "department": "Marketing",
       "tags": [
-        "mrr",
-        "revenue",
-        "Product A"
+        "customer-acquisition",
+        "channel-cost",
+        "Email"
       ],
       "keywords": [
-        "revenue analysis",
-        "product performance",
-        "mobility"
+        "cost breakdown",
+        "channel efficiency",
+        "physically"
+      ],
+      "timeframe": "Q2 2023"
+    }
+  },
+  {
+    "title": "Win/Loss Ratio Across Europe Sales Territories",
+    "description": "Analyzes competitive performance in Europe regions for the past Q1 2023.",
+    "metadata": {
+      "category": "Sales Performance",
+      "department": "Sales",
+      "tags": [
+        "win-loss",
+        "sales-territories",
+        "Europe"
+      ],
+      "keywords": [
+        "competitive analysis",
+        "regional performance",
+        "granular"
       ],
       "timeframe": "Q1 2023"
     }
   },
   {
-    "title": "Monthly Recurring Revenue Breakdown for Product C",
-    "description": "Provides a detailed breakdown of MRR for Product C across APAC.",
+    "title": "Win/Loss Ratio Across Latin America Sales Territories",
+    "description": "Analyzes competitive performance in Latin America regions for the past Q2 2023.",
     "metadata": {
-      "category": "Financial Analysis",
-      "department": "Finance",
+      "category": "Sales Performance",
+      "department": "Sales",
       "tags": [
-        "mrr",
-        "revenue",
-        "Product C"
+        "win-loss",
+        "sales-territories",
+        "Latin America"
       ],
       "keywords": [
-        "revenue analysis",
-        "product performance",
-        "down"
+        "competitive analysis",
+        "regional performance",
+        "grave"
       ],
-      "timeframe": "Q1 2023"
-    }
-  },
-  {
-    "title": "Monthly Recurring Revenue Breakdown for Product A",
-    "description": "Provides a detailed breakdown of MRR for Product A across North America.",
-    "metadata": {
-      "category": "Financial Analysis",
-      "department": "Finance",
-      "tags": [
-        "mrr",
-        "revenue",
-        "Product A"
-      ],
-      "keywords": [
-        "revenue analysis",
-        "product performance",
-        "behold"
-      ],
-      "timeframe": "Q1 2023"
+      "timeframe": "Q2 2023"
     }
   },
   {
@@ -1837,14 +431,166 @@
       "keywords": [
         "cost breakdown",
         "channel efficiency",
-        "recklessly"
+        "measly"
       ],
       "timeframe": "Q1 2023"
     }
   },
   {
+    "title": "Customer Acquisition Cost by Email",
+    "description": "Breaks down customer acquisition costs for Email over the last Q3 2023.",
+    "metadata": {
+      "category": "Marketing Analytics",
+      "department": "Marketing",
+      "tags": [
+        "customer-acquisition",
+        "channel-cost",
+        "Email"
+      ],
+      "keywords": [
+        "cost breakdown",
+        "channel efficiency",
+        "circa"
+      ],
+      "timeframe": "Q3 2023"
+    }
+  },
+  {
+    "title": "Customer Acquisition Cost by Email",
+    "description": "Breaks down customer acquisition costs for Email over the last Q1 2023.",
+    "metadata": {
+      "category": "Marketing Analytics",
+      "department": "Marketing",
+      "tags": [
+        "customer-acquisition",
+        "channel-cost",
+        "Email"
+      ],
+      "keywords": [
+        "cost breakdown",
+        "channel efficiency",
+        "failing"
+      ],
+      "timeframe": "Q1 2023"
+    }
+  },
+  {
+    "title": "Customer Acquisition Cost by Social Media",
+    "description": "Breaks down customer acquisition costs for Social Media over the last Q2 2023.",
+    "metadata": {
+      "category": "Marketing Analytics",
+      "department": "Marketing",
+      "tags": [
+        "customer-acquisition",
+        "channel-cost",
+        "Social Media"
+      ],
+      "keywords": [
+        "cost breakdown",
+        "channel efficiency",
+        "woefully"
+      ],
+      "timeframe": "Q2 2023"
+    }
+  },
+  {
+    "title": "Customer Acquisition Cost by Email",
+    "description": "Breaks down customer acquisition costs for Email over the last Q1 2023.",
+    "metadata": {
+      "category": "Marketing Analytics",
+      "department": "Marketing",
+      "tags": [
+        "customer-acquisition",
+        "channel-cost",
+        "Email"
+      ],
+      "keywords": [
+        "cost breakdown",
+        "channel efficiency",
+        "madly"
+      ],
+      "timeframe": "Q1 2023"
+    }
+  },
+  {
+    "title": "Win/Loss Ratio Across Europe Sales Territories",
+    "description": "Analyzes competitive performance in Europe regions for the past Q2 2023.",
+    "metadata": {
+      "category": "Sales Performance",
+      "department": "Sales",
+      "tags": [
+        "win-loss",
+        "sales-territories",
+        "Europe"
+      ],
+      "keywords": [
+        "competitive analysis",
+        "regional performance",
+        "weakly"
+      ],
+      "timeframe": "Q2 2023"
+    }
+  },
+  {
+    "title": "Win/Loss Ratio Across Latin America Sales Territories",
+    "description": "Analyzes competitive performance in Latin America regions for the past Q2 2023.",
+    "metadata": {
+      "category": "Sales Performance",
+      "department": "Sales",
+      "tags": [
+        "win-loss",
+        "sales-territories",
+        "Latin America"
+      ],
+      "keywords": [
+        "competitive analysis",
+        "regional performance",
+        "behind"
+      ],
+      "timeframe": "Q2 2023"
+    }
+  },
+  {
+    "title": "Monthly Recurring Revenue Breakdown for Product A",
+    "description": "Provides a detailed breakdown of MRR for Product A across Europe.",
+    "metadata": {
+      "category": "Financial Analysis",
+      "department": "Finance",
+      "tags": [
+        "mrr",
+        "revenue",
+        "Product A"
+      ],
+      "keywords": [
+        "revenue analysis",
+        "product performance",
+        "till"
+      ],
+      "timeframe": "Q2 2023"
+    }
+  },
+  {
+    "title": "Customer Acquisition Cost by Email",
+    "description": "Breaks down customer acquisition costs for Email over the last Q2 2023.",
+    "metadata": {
+      "category": "Marketing Analytics",
+      "department": "Marketing",
+      "tags": [
+        "customer-acquisition",
+        "channel-cost",
+        "Email"
+      ],
+      "keywords": [
+        "cost breakdown",
+        "channel efficiency",
+        "behind"
+      ],
+      "timeframe": "Q2 2023"
+    }
+  },
+  {
     "title": "Win/Loss Ratio Across North America Sales Territories",
-    "description": "Analyzes competitive performance in North America regions for the past Q2 2023.",
+    "description": "Analyzes competitive performance in North America regions for the past Q3 2023.",
     "metadata": {
       "category": "Sales Performance",
       "department": "Sales",
@@ -1856,26 +602,292 @@
       "keywords": [
         "competitive analysis",
         "regional performance",
-        "viciously"
+        "oh"
       ],
-      "timeframe": "Q2 2023"
+      "timeframe": "Q3 2023"
     }
   },
   {
-    "title": "Monthly Recurring Revenue Breakdown for Product B",
-    "description": "Provides a detailed breakdown of MRR for Product B across North America.",
+    "title": "Monthly Recurring Revenue Breakdown for Product A",
+    "description": "Provides a detailed breakdown of MRR for Product A across North America.",
     "metadata": {
       "category": "Financial Analysis",
       "department": "Finance",
       "tags": [
         "mrr",
         "revenue",
-        "Product B"
+        "Product A"
       ],
       "keywords": [
         "revenue analysis",
         "product performance",
-        "adumbrate"
+        "trench"
+      ],
+      "timeframe": "Q3 2023"
+    }
+  },
+  {
+    "title": "Win/Loss Ratio Across Europe Sales Territories",
+    "description": "Analyzes competitive performance in Europe regions for the past Q3 2023.",
+    "metadata": {
+      "category": "Sales Performance",
+      "department": "Sales",
+      "tags": [
+        "win-loss",
+        "sales-territories",
+        "Europe"
+      ],
+      "keywords": [
+        "competitive analysis",
+        "regional performance",
+        "pish"
+      ],
+      "timeframe": "Q3 2023"
+    }
+  },
+  {
+    "title": "Customer Acquisition Cost by Social Media",
+    "description": "Breaks down customer acquisition costs for Social Media over the last Q2 2023.",
+    "metadata": {
+      "category": "Marketing Analytics",
+      "department": "Marketing",
+      "tags": [
+        "customer-acquisition",
+        "channel-cost",
+        "Social Media"
+      ],
+      "keywords": [
+        "cost breakdown",
+        "channel efficiency",
+        "outlandish"
+      ],
+      "timeframe": "Q2 2023"
+    }
+  },
+  {
+    "title": "Win/Loss Ratio Across APAC Sales Territories",
+    "description": "Analyzes competitive performance in APAC regions for the past Q2 2023.",
+    "metadata": {
+      "category": "Sales Performance",
+      "department": "Sales",
+      "tags": [
+        "win-loss",
+        "sales-territories",
+        "APAC"
+      ],
+      "keywords": [
+        "competitive analysis",
+        "regional performance",
+        "interestingly"
+      ],
+      "timeframe": "Q2 2023"
+    }
+  },
+  {
+    "title": "Monthly Recurring Revenue Breakdown for Product C",
+    "description": "Provides a detailed breakdown of MRR for Product C across North America.",
+    "metadata": {
+      "category": "Financial Analysis",
+      "department": "Finance",
+      "tags": [
+        "mrr",
+        "revenue",
+        "Product C"
+      ],
+      "keywords": [
+        "revenue analysis",
+        "product performance",
+        "provided"
+      ],
+      "timeframe": "Q2 2023"
+    }
+  },
+  {
+    "title": "Monthly Recurring Revenue Breakdown for Product C",
+    "description": "Provides a detailed breakdown of MRR for Product C across Europe.",
+    "metadata": {
+      "category": "Financial Analysis",
+      "department": "Finance",
+      "tags": [
+        "mrr",
+        "revenue",
+        "Product C"
+      ],
+      "keywords": [
+        "revenue analysis",
+        "product performance",
+        "phew"
+      ],
+      "timeframe": "Q1 2023"
+    }
+  },
+  {
+    "title": "Monthly Recurring Revenue Breakdown for Product C",
+    "description": "Provides a detailed breakdown of MRR for Product C across Europe.",
+    "metadata": {
+      "category": "Financial Analysis",
+      "department": "Finance",
+      "tags": [
+        "mrr",
+        "revenue",
+        "Product C"
+      ],
+      "keywords": [
+        "revenue analysis",
+        "product performance",
+        "option"
+      ],
+      "timeframe": "Q2 2023"
+    }
+  },
+  {
+    "title": "Monthly Recurring Revenue Breakdown for Product C",
+    "description": "Provides a detailed breakdown of MRR for Product C across Latin America.",
+    "metadata": {
+      "category": "Financial Analysis",
+      "department": "Finance",
+      "tags": [
+        "mrr",
+        "revenue",
+        "Product C"
+      ],
+      "keywords": [
+        "revenue analysis",
+        "product performance",
+        "thunderbolt"
+      ],
+      "timeframe": "Q2 2023"
+    }
+  },
+  {
+    "title": "Win/Loss Ratio Across Europe Sales Territories",
+    "description": "Analyzes competitive performance in Europe regions for the past Q3 2023.",
+    "metadata": {
+      "category": "Sales Performance",
+      "department": "Sales",
+      "tags": [
+        "win-loss",
+        "sales-territories",
+        "Europe"
+      ],
+      "keywords": [
+        "competitive analysis",
+        "regional performance",
+        "solemnly"
+      ],
+      "timeframe": "Q3 2023"
+    }
+  },
+  {
+    "title": "Win/Loss Ratio Across Europe Sales Territories",
+    "description": "Analyzes competitive performance in Europe regions for the past Q2 2023.",
+    "metadata": {
+      "category": "Sales Performance",
+      "department": "Sales",
+      "tags": [
+        "win-loss",
+        "sales-territories",
+        "Europe"
+      ],
+      "keywords": [
+        "competitive analysis",
+        "regional performance",
+        "pish"
+      ],
+      "timeframe": "Q2 2023"
+    }
+  },
+  {
+    "title": "Win/Loss Ratio Across North America Sales Territories",
+    "description": "Analyzes competitive performance in North America regions for the past Q1 2023.",
+    "metadata": {
+      "category": "Sales Performance",
+      "department": "Sales",
+      "tags": [
+        "win-loss",
+        "sales-territories",
+        "North America"
+      ],
+      "keywords": [
+        "competitive analysis",
+        "regional performance",
+        "other"
+      ],
+      "timeframe": "Q1 2023"
+    }
+  },
+  {
+    "title": "Customer Acquisition Cost by Paid Ads",
+    "description": "Breaks down customer acquisition costs for Paid Ads over the last Q2 2023.",
+    "metadata": {
+      "category": "Marketing Analytics",
+      "department": "Marketing",
+      "tags": [
+        "customer-acquisition",
+        "channel-cost",
+        "Paid Ads"
+      ],
+      "keywords": [
+        "cost breakdown",
+        "channel efficiency",
+        "now"
+      ],
+      "timeframe": "Q2 2023"
+    }
+  },
+  {
+    "title": "Win/Loss Ratio Across Europe Sales Territories",
+    "description": "Analyzes competitive performance in Europe regions for the past Q3 2023.",
+    "metadata": {
+      "category": "Sales Performance",
+      "department": "Sales",
+      "tags": [
+        "win-loss",
+        "sales-territories",
+        "Europe"
+      ],
+      "keywords": [
+        "competitive analysis",
+        "regional performance",
+        "at"
+      ],
+      "timeframe": "Q3 2023"
+    }
+  },
+  {
+    "title": "Monthly Recurring Revenue Breakdown for Product C",
+    "description": "Provides a detailed breakdown of MRR for Product C across APAC.",
+    "metadata": {
+      "category": "Financial Analysis",
+      "department": "Finance",
+      "tags": [
+        "mrr",
+        "revenue",
+        "Product C"
+      ],
+      "keywords": [
+        "revenue analysis",
+        "product performance",
+        "than"
+      ],
+      "timeframe": "Q2 2023"
+    }
+  },
+  {
+    "title": "Customer Acquisition Cost by Email",
+    "description": "Breaks down customer acquisition costs for Email over the last Q3 2023.",
+    "metadata": {
+      "category": "Marketing Analytics",
+      "department": "Marketing",
+      "tags": [
+        "customer-acquisition",
+        "channel-cost",
+        "Email"
+      ],
+      "keywords": [
+        "cost breakdown",
+        "channel efficiency",
+        "yippee"
       ],
       "timeframe": "Q3 2023"
     }
@@ -1894,9 +906,997 @@
       "keywords": [
         "revenue analysis",
         "product performance",
+        "unusual"
+      ],
+      "timeframe": "Q2 2023"
+    }
+  },
+  {
+    "title": "Customer Acquisition Cost by Paid Ads",
+    "description": "Breaks down customer acquisition costs for Paid Ads over the last Q2 2023.",
+    "metadata": {
+      "category": "Marketing Analytics",
+      "department": "Marketing",
+      "tags": [
+        "customer-acquisition",
+        "channel-cost",
+        "Paid Ads"
+      ],
+      "keywords": [
+        "cost breakdown",
+        "channel efficiency",
+        "slow"
+      ],
+      "timeframe": "Q2 2023"
+    }
+  },
+  {
+    "title": "Win/Loss Ratio Across North America Sales Territories",
+    "description": "Analyzes competitive performance in North America regions for the past Q3 2023.",
+    "metadata": {
+      "category": "Sales Performance",
+      "department": "Sales",
+      "tags": [
+        "win-loss",
+        "sales-territories",
+        "North America"
+      ],
+      "keywords": [
+        "competitive analysis",
+        "regional performance",
+        "ick"
+      ],
+      "timeframe": "Q3 2023"
+    }
+  },
+  {
+    "title": "Win/Loss Ratio Across Latin America Sales Territories",
+    "description": "Analyzes competitive performance in Latin America regions for the past Q1 2023.",
+    "metadata": {
+      "category": "Sales Performance",
+      "department": "Sales",
+      "tags": [
+        "win-loss",
+        "sales-territories",
+        "Latin America"
+      ],
+      "keywords": [
+        "competitive analysis",
+        "regional performance",
+        "disrespect"
+      ],
+      "timeframe": "Q1 2023"
+    }
+  },
+  {
+    "title": "Customer Acquisition Cost by Social Media",
+    "description": "Breaks down customer acquisition costs for Social Media over the last Q2 2023.",
+    "metadata": {
+      "category": "Marketing Analytics",
+      "department": "Marketing",
+      "tags": [
+        "customer-acquisition",
+        "channel-cost",
+        "Social Media"
+      ],
+      "keywords": [
+        "cost breakdown",
+        "channel efficiency",
+        "onto"
+      ],
+      "timeframe": "Q2 2023"
+    }
+  },
+  {
+    "title": "Customer Acquisition Cost by Email",
+    "description": "Breaks down customer acquisition costs for Email over the last Q3 2023.",
+    "metadata": {
+      "category": "Marketing Analytics",
+      "department": "Marketing",
+      "tags": [
+        "customer-acquisition",
+        "channel-cost",
+        "Email"
+      ],
+      "keywords": [
+        "cost breakdown",
+        "channel efficiency",
+        "why"
+      ],
+      "timeframe": "Q3 2023"
+    }
+  },
+  {
+    "title": "Monthly Recurring Revenue Breakdown for Product B",
+    "description": "Provides a detailed breakdown of MRR for Product B across North America.",
+    "metadata": {
+      "category": "Financial Analysis",
+      "department": "Finance",
+      "tags": [
+        "mrr",
+        "revenue",
+        "Product B"
+      ],
+      "keywords": [
+        "revenue analysis",
+        "product performance",
+        "mmm"
+      ],
+      "timeframe": "Q1 2023"
+    }
+  },
+  {
+    "title": "Customer Acquisition Cost by Social Media",
+    "description": "Breaks down customer acquisition costs for Social Media over the last Q1 2023.",
+    "metadata": {
+      "category": "Marketing Analytics",
+      "department": "Marketing",
+      "tags": [
+        "customer-acquisition",
+        "channel-cost",
+        "Social Media"
+      ],
+      "keywords": [
+        "cost breakdown",
+        "channel efficiency",
+        "card"
+      ],
+      "timeframe": "Q1 2023"
+    }
+  },
+  {
+    "title": "Win/Loss Ratio Across Latin America Sales Territories",
+    "description": "Analyzes competitive performance in Latin America regions for the past Q2 2023.",
+    "metadata": {
+      "category": "Sales Performance",
+      "department": "Sales",
+      "tags": [
+        "win-loss",
+        "sales-territories",
+        "Latin America"
+      ],
+      "keywords": [
+        "competitive analysis",
+        "regional performance",
+        "but"
+      ],
+      "timeframe": "Q2 2023"
+    }
+  },
+  {
+    "title": "Customer Acquisition Cost by Paid Ads",
+    "description": "Breaks down customer acquisition costs for Paid Ads over the last Q1 2023.",
+    "metadata": {
+      "category": "Marketing Analytics",
+      "department": "Marketing",
+      "tags": [
+        "customer-acquisition",
+        "channel-cost",
+        "Paid Ads"
+      ],
+      "keywords": [
+        "cost breakdown",
+        "channel efficiency",
+        "ornate"
+      ],
+      "timeframe": "Q1 2023"
+    }
+  },
+  {
+    "title": "Win/Loss Ratio Across APAC Sales Territories",
+    "description": "Analyzes competitive performance in APAC regions for the past Q2 2023.",
+    "metadata": {
+      "category": "Sales Performance",
+      "department": "Sales",
+      "tags": [
+        "win-loss",
+        "sales-territories",
+        "APAC"
+      ],
+      "keywords": [
+        "competitive analysis",
+        "regional performance",
+        "deed"
+      ],
+      "timeframe": "Q2 2023"
+    }
+  },
+  {
+    "title": "Customer Acquisition Cost by Social Media",
+    "description": "Breaks down customer acquisition costs for Social Media over the last Q1 2023.",
+    "metadata": {
+      "category": "Marketing Analytics",
+      "department": "Marketing",
+      "tags": [
+        "customer-acquisition",
+        "channel-cost",
+        "Social Media"
+      ],
+      "keywords": [
+        "cost breakdown",
+        "channel efficiency",
+        "yearningly"
+      ],
+      "timeframe": "Q1 2023"
+    }
+  },
+  {
+    "title": "Win/Loss Ratio Across North America Sales Territories",
+    "description": "Analyzes competitive performance in North America regions for the past Q2 2023.",
+    "metadata": {
+      "category": "Sales Performance",
+      "department": "Sales",
+      "tags": [
+        "win-loss",
+        "sales-territories",
+        "North America"
+      ],
+      "keywords": [
+        "competitive analysis",
+        "regional performance",
+        "scary"
+      ],
+      "timeframe": "Q2 2023"
+    }
+  },
+  {
+    "title": "Customer Acquisition Cost by Paid Ads",
+    "description": "Breaks down customer acquisition costs for Paid Ads over the last Q3 2023.",
+    "metadata": {
+      "category": "Marketing Analytics",
+      "department": "Marketing",
+      "tags": [
+        "customer-acquisition",
+        "channel-cost",
+        "Paid Ads"
+      ],
+      "keywords": [
+        "cost breakdown",
+        "channel efficiency",
+        "devastation"
+      ],
+      "timeframe": "Q3 2023"
+    }
+  },
+  {
+    "title": "Customer Acquisition Cost by Paid Ads",
+    "description": "Breaks down customer acquisition costs for Paid Ads over the last Q3 2023.",
+    "metadata": {
+      "category": "Marketing Analytics",
+      "department": "Marketing",
+      "tags": [
+        "customer-acquisition",
+        "channel-cost",
+        "Paid Ads"
+      ],
+      "keywords": [
+        "cost breakdown",
+        "channel efficiency",
+        "underachieve"
+      ],
+      "timeframe": "Q3 2023"
+    }
+  },
+  {
+    "title": "Monthly Recurring Revenue Breakdown for Product C",
+    "description": "Provides a detailed breakdown of MRR for Product C across North America.",
+    "metadata": {
+      "category": "Financial Analysis",
+      "department": "Finance",
+      "tags": [
+        "mrr",
+        "revenue",
+        "Product C"
+      ],
+      "keywords": [
+        "revenue analysis",
+        "product performance",
+        "vainly"
+      ],
+      "timeframe": "Q3 2023"
+    }
+  },
+  {
+    "title": "Customer Acquisition Cost by Paid Ads",
+    "description": "Breaks down customer acquisition costs for Paid Ads over the last Q1 2023.",
+    "metadata": {
+      "category": "Marketing Analytics",
+      "department": "Marketing",
+      "tags": [
+        "customer-acquisition",
+        "channel-cost",
+        "Paid Ads"
+      ],
+      "keywords": [
+        "cost breakdown",
+        "channel efficiency",
+        "wilderness"
+      ],
+      "timeframe": "Q1 2023"
+    }
+  },
+  {
+    "title": "Monthly Recurring Revenue Breakdown for Product B",
+    "description": "Provides a detailed breakdown of MRR for Product B across Europe.",
+    "metadata": {
+      "category": "Financial Analysis",
+      "department": "Finance",
+      "tags": [
+        "mrr",
+        "revenue",
+        "Product B"
+      ],
+      "keywords": [
+        "revenue analysis",
+        "product performance",
+        "except"
+      ],
+      "timeframe": "Q1 2023"
+    }
+  },
+  {
+    "title": "Monthly Recurring Revenue Breakdown for Product A",
+    "description": "Provides a detailed breakdown of MRR for Product A across APAC.",
+    "metadata": {
+      "category": "Financial Analysis",
+      "department": "Finance",
+      "tags": [
+        "mrr",
+        "revenue",
+        "Product A"
+      ],
+      "keywords": [
+        "revenue analysis",
+        "product performance",
+        "vice"
+      ],
+      "timeframe": "Q3 2023"
+    }
+  },
+  {
+    "title": "Customer Acquisition Cost by Social Media",
+    "description": "Breaks down customer acquisition costs for Social Media over the last Q1 2023.",
+    "metadata": {
+      "category": "Marketing Analytics",
+      "department": "Marketing",
+      "tags": [
+        "customer-acquisition",
+        "channel-cost",
+        "Social Media"
+      ],
+      "keywords": [
+        "cost breakdown",
+        "channel efficiency",
+        "muddy"
+      ],
+      "timeframe": "Q1 2023"
+    }
+  },
+  {
+    "title": "Customer Acquisition Cost by Paid Ads",
+    "description": "Breaks down customer acquisition costs for Paid Ads over the last Q1 2023.",
+    "metadata": {
+      "category": "Marketing Analytics",
+      "department": "Marketing",
+      "tags": [
+        "customer-acquisition",
+        "channel-cost",
+        "Paid Ads"
+      ],
+      "keywords": [
+        "cost breakdown",
+        "channel efficiency",
+        "aw"
+      ],
+      "timeframe": "Q1 2023"
+    }
+  },
+  {
+    "title": "Monthly Recurring Revenue Breakdown for Product B",
+    "description": "Provides a detailed breakdown of MRR for Product B across Latin America.",
+    "metadata": {
+      "category": "Financial Analysis",
+      "department": "Finance",
+      "tags": [
+        "mrr",
+        "revenue",
+        "Product B"
+      ],
+      "keywords": [
+        "revenue analysis",
+        "product performance",
+        "vice"
+      ],
+      "timeframe": "Q2 2023"
+    }
+  },
+  {
+    "title": "Win/Loss Ratio Across APAC Sales Territories",
+    "description": "Analyzes competitive performance in APAC regions for the past Q2 2023.",
+    "metadata": {
+      "category": "Sales Performance",
+      "department": "Sales",
+      "tags": [
+        "win-loss",
+        "sales-territories",
+        "APAC"
+      ],
+      "keywords": [
+        "competitive analysis",
+        "regional performance",
+        "discontinue"
+      ],
+      "timeframe": "Q2 2023"
+    }
+  },
+  {
+    "title": "Monthly Recurring Revenue Breakdown for Product B",
+    "description": "Provides a detailed breakdown of MRR for Product B across APAC.",
+    "metadata": {
+      "category": "Financial Analysis",
+      "department": "Finance",
+      "tags": [
+        "mrr",
+        "revenue",
+        "Product B"
+      ],
+      "keywords": [
+        "revenue analysis",
+        "product performance",
+        "wrongly"
+      ],
+      "timeframe": "Q1 2023"
+    }
+  },
+  {
+    "title": "Win/Loss Ratio Across APAC Sales Territories",
+    "description": "Analyzes competitive performance in APAC regions for the past Q1 2023.",
+    "metadata": {
+      "category": "Sales Performance",
+      "department": "Sales",
+      "tags": [
+        "win-loss",
+        "sales-territories",
+        "APAC"
+      ],
+      "keywords": [
+        "competitive analysis",
+        "regional performance",
+        "unaccountably"
+      ],
+      "timeframe": "Q1 2023"
+    }
+  },
+  {
+    "title": "Win/Loss Ratio Across North America Sales Territories",
+    "description": "Analyzes competitive performance in North America regions for the past Q2 2023.",
+    "metadata": {
+      "category": "Sales Performance",
+      "department": "Sales",
+      "tags": [
+        "win-loss",
+        "sales-territories",
+        "North America"
+      ],
+      "keywords": [
+        "competitive analysis",
+        "regional performance",
+        "including"
+      ],
+      "timeframe": "Q2 2023"
+    }
+  },
+  {
+    "title": "Customer Acquisition Cost by Email",
+    "description": "Breaks down customer acquisition costs for Email over the last Q3 2023.",
+    "metadata": {
+      "category": "Marketing Analytics",
+      "department": "Marketing",
+      "tags": [
+        "customer-acquisition",
+        "channel-cost",
+        "Email"
+      ],
+      "keywords": [
+        "cost breakdown",
+        "channel efficiency",
+        "indeed"
+      ],
+      "timeframe": "Q3 2023"
+    }
+  },
+  {
+    "title": "Win/Loss Ratio Across Europe Sales Territories",
+    "description": "Analyzes competitive performance in Europe regions for the past Q2 2023.",
+    "metadata": {
+      "category": "Sales Performance",
+      "department": "Sales",
+      "tags": [
+        "win-loss",
+        "sales-territories",
+        "Europe"
+      ],
+      "keywords": [
+        "competitive analysis",
+        "regional performance",
+        "what"
+      ],
+      "timeframe": "Q2 2023"
+    }
+  },
+  {
+    "title": "Monthly Recurring Revenue Breakdown for Product B",
+    "description": "Provides a detailed breakdown of MRR for Product B across Europe.",
+    "metadata": {
+      "category": "Financial Analysis",
+      "department": "Finance",
+      "tags": [
+        "mrr",
+        "revenue",
+        "Product B"
+      ],
+      "keywords": [
+        "revenue analysis",
+        "product performance",
+        "orderly"
+      ],
+      "timeframe": "Q1 2023"
+    }
+  },
+  {
+    "title": "Customer Acquisition Cost by Paid Ads",
+    "description": "Breaks down customer acquisition costs for Paid Ads over the last Q2 2023.",
+    "metadata": {
+      "category": "Marketing Analytics",
+      "department": "Marketing",
+      "tags": [
+        "customer-acquisition",
+        "channel-cost",
+        "Paid Ads"
+      ],
+      "keywords": [
+        "cost breakdown",
+        "channel efficiency",
+        "arrogantly"
+      ],
+      "timeframe": "Q2 2023"
+    }
+  },
+  {
+    "title": "Monthly Recurring Revenue Breakdown for Product B",
+    "description": "Provides a detailed breakdown of MRR for Product B across Latin America.",
+    "metadata": {
+      "category": "Financial Analysis",
+      "department": "Finance",
+      "tags": [
+        "mrr",
+        "revenue",
+        "Product B"
+      ],
+      "keywords": [
+        "revenue analysis",
+        "product performance",
+        "aw"
+      ],
+      "timeframe": "Q3 2023"
+    }
+  },
+  {
+    "title": "Monthly Recurring Revenue Breakdown for Product A",
+    "description": "Provides a detailed breakdown of MRR for Product A across Latin America.",
+    "metadata": {
+      "category": "Financial Analysis",
+      "department": "Finance",
+      "tags": [
+        "mrr",
+        "revenue",
+        "Product A"
+      ],
+      "keywords": [
+        "revenue analysis",
+        "product performance",
+        "duh"
+      ],
+      "timeframe": "Q1 2023"
+    }
+  },
+  {
+    "title": "Win/Loss Ratio Across Latin America Sales Territories",
+    "description": "Analyzes competitive performance in Latin America regions for the past Q2 2023.",
+    "metadata": {
+      "category": "Sales Performance",
+      "department": "Sales",
+      "tags": [
+        "win-loss",
+        "sales-territories",
+        "Latin America"
+      ],
+      "keywords": [
+        "competitive analysis",
+        "regional performance",
+        "angrily"
+      ],
+      "timeframe": "Q2 2023"
+    }
+  },
+  {
+    "title": "Monthly Recurring Revenue Breakdown for Product A",
+    "description": "Provides a detailed breakdown of MRR for Product A across Latin America.",
+    "metadata": {
+      "category": "Financial Analysis",
+      "department": "Finance",
+      "tags": [
+        "mrr",
+        "revenue",
+        "Product A"
+      ],
+      "keywords": [
+        "revenue analysis",
+        "product performance",
         "hmph"
       ],
       "timeframe": "Q1 2023"
+    }
+  },
+  {
+    "title": "Monthly Recurring Revenue Breakdown for Product C",
+    "description": "Provides a detailed breakdown of MRR for Product C across Europe.",
+    "metadata": {
+      "category": "Financial Analysis",
+      "department": "Finance",
+      "tags": [
+        "mrr",
+        "revenue",
+        "Product C"
+      ],
+      "keywords": [
+        "revenue analysis",
+        "product performance",
+        "a"
+      ],
+      "timeframe": "Q2 2023"
+    }
+  },
+  {
+    "title": "Customer Acquisition Cost by Paid Ads",
+    "description": "Breaks down customer acquisition costs for Paid Ads over the last Q3 2023.",
+    "metadata": {
+      "category": "Marketing Analytics",
+      "department": "Marketing",
+      "tags": [
+        "customer-acquisition",
+        "channel-cost",
+        "Paid Ads"
+      ],
+      "keywords": [
+        "cost breakdown",
+        "channel efficiency",
+        "yum"
+      ],
+      "timeframe": "Q3 2023"
+    }
+  },
+  {
+    "title": "Customer Acquisition Cost by Social Media",
+    "description": "Breaks down customer acquisition costs for Social Media over the last Q1 2023.",
+    "metadata": {
+      "category": "Marketing Analytics",
+      "department": "Marketing",
+      "tags": [
+        "customer-acquisition",
+        "channel-cost",
+        "Social Media"
+      ],
+      "keywords": [
+        "cost breakdown",
+        "channel efficiency",
+        "nervously"
+      ],
+      "timeframe": "Q1 2023"
+    }
+  },
+  {
+    "title": "Customer Acquisition Cost by Social Media",
+    "description": "Breaks down customer acquisition costs for Social Media over the last Q3 2023.",
+    "metadata": {
+      "category": "Marketing Analytics",
+      "department": "Marketing",
+      "tags": [
+        "customer-acquisition",
+        "channel-cost",
+        "Social Media"
+      ],
+      "keywords": [
+        "cost breakdown",
+        "channel efficiency",
+        "mythology"
+      ],
+      "timeframe": "Q3 2023"
+    }
+  },
+  {
+    "title": "Customer Acquisition Cost by Social Media",
+    "description": "Breaks down customer acquisition costs for Social Media over the last Q2 2023.",
+    "metadata": {
+      "category": "Marketing Analytics",
+      "department": "Marketing",
+      "tags": [
+        "customer-acquisition",
+        "channel-cost",
+        "Social Media"
+      ],
+      "keywords": [
+        "cost breakdown",
+        "channel efficiency",
+        "far"
+      ],
+      "timeframe": "Q2 2023"
+    }
+  },
+  {
+    "title": "Monthly Recurring Revenue Breakdown for Product A",
+    "description": "Provides a detailed breakdown of MRR for Product A across North America.",
+    "metadata": {
+      "category": "Financial Analysis",
+      "department": "Finance",
+      "tags": [
+        "mrr",
+        "revenue",
+        "Product A"
+      ],
+      "keywords": [
+        "revenue analysis",
+        "product performance",
+        "yowza"
+      ],
+      "timeframe": "Q2 2023"
+    }
+  },
+  {
+    "title": "Win/Loss Ratio Across Latin America Sales Territories",
+    "description": "Analyzes competitive performance in Latin America regions for the past Q1 2023.",
+    "metadata": {
+      "category": "Sales Performance",
+      "department": "Sales",
+      "tags": [
+        "win-loss",
+        "sales-territories",
+        "Latin America"
+      ],
+      "keywords": [
+        "competitive analysis",
+        "regional performance",
+        "dicker"
+      ],
+      "timeframe": "Q1 2023"
+    }
+  },
+  {
+    "title": "Customer Acquisition Cost by Social Media",
+    "description": "Breaks down customer acquisition costs for Social Media over the last Q3 2023.",
+    "metadata": {
+      "category": "Marketing Analytics",
+      "department": "Marketing",
+      "tags": [
+        "customer-acquisition",
+        "channel-cost",
+        "Social Media"
+      ],
+      "keywords": [
+        "cost breakdown",
+        "channel efficiency",
+        "swathe"
+      ],
+      "timeframe": "Q3 2023"
+    }
+  },
+  {
+    "title": "Customer Acquisition Cost by Paid Ads",
+    "description": "Breaks down customer acquisition costs for Paid Ads over the last Q2 2023.",
+    "metadata": {
+      "category": "Marketing Analytics",
+      "department": "Marketing",
+      "tags": [
+        "customer-acquisition",
+        "channel-cost",
+        "Paid Ads"
+      ],
+      "keywords": [
+        "cost breakdown",
+        "channel efficiency",
+        "sternly"
+      ],
+      "timeframe": "Q2 2023"
+    }
+  },
+  {
+    "title": "Monthly Recurring Revenue Breakdown for Product C",
+    "description": "Provides a detailed breakdown of MRR for Product C across Europe.",
+    "metadata": {
+      "category": "Financial Analysis",
+      "department": "Finance",
+      "tags": [
+        "mrr",
+        "revenue",
+        "Product C"
+      ],
+      "keywords": [
+        "revenue analysis",
+        "product performance",
+        "yearningly"
+      ],
+      "timeframe": "Q1 2023"
+    }
+  },
+  {
+    "title": "Customer Acquisition Cost by Social Media",
+    "description": "Breaks down customer acquisition costs for Social Media over the last Q1 2023.",
+    "metadata": {
+      "category": "Marketing Analytics",
+      "department": "Marketing",
+      "tags": [
+        "customer-acquisition",
+        "channel-cost",
+        "Social Media"
+      ],
+      "keywords": [
+        "cost breakdown",
+        "channel efficiency",
+        "expense"
+      ],
+      "timeframe": "Q1 2023"
+    }
+  },
+  {
+    "title": "Monthly Recurring Revenue Breakdown for Product C",
+    "description": "Provides a detailed breakdown of MRR for Product C across Europe.",
+    "metadata": {
+      "category": "Financial Analysis",
+      "department": "Finance",
+      "tags": [
+        "mrr",
+        "revenue",
+        "Product C"
+      ],
+      "keywords": [
+        "revenue analysis",
+        "product performance",
+        "aw"
+      ],
+      "timeframe": "Q3 2023"
+    }
+  },
+  {
+    "title": "Win/Loss Ratio Across Latin America Sales Territories",
+    "description": "Analyzes competitive performance in Latin America regions for the past Q2 2023.",
+    "metadata": {
+      "category": "Sales Performance",
+      "department": "Sales",
+      "tags": [
+        "win-loss",
+        "sales-territories",
+        "Latin America"
+      ],
+      "keywords": [
+        "competitive analysis",
+        "regional performance",
+        "wretched"
+      ],
+      "timeframe": "Q2 2023"
+    }
+  },
+  {
+    "title": "Monthly Recurring Revenue Breakdown for Product B",
+    "description": "Provides a detailed breakdown of MRR for Product B across North America.",
+    "metadata": {
+      "category": "Financial Analysis",
+      "department": "Finance",
+      "tags": [
+        "mrr",
+        "revenue",
+        "Product B"
+      ],
+      "keywords": [
+        "revenue analysis",
+        "product performance",
+        "sidetrack"
+      ],
+      "timeframe": "Q1 2023"
+    }
+  },
+  {
+    "title": "Customer Acquisition Cost by Email",
+    "description": "Breaks down customer acquisition costs for Email over the last Q3 2023.",
+    "metadata": {
+      "category": "Marketing Analytics",
+      "department": "Marketing",
+      "tags": [
+        "customer-acquisition",
+        "channel-cost",
+        "Email"
+      ],
+      "keywords": [
+        "cost breakdown",
+        "channel efficiency",
+        "pro"
+      ],
+      "timeframe": "Q3 2023"
+    }
+  },
+  {
+    "title": "Customer Acquisition Cost by Paid Ads",
+    "description": "Breaks down customer acquisition costs for Paid Ads over the last Q2 2023.",
+    "metadata": {
+      "category": "Marketing Analytics",
+      "department": "Marketing",
+      "tags": [
+        "customer-acquisition",
+        "channel-cost",
+        "Paid Ads"
+      ],
+      "keywords": [
+        "cost breakdown",
+        "channel efficiency",
+        "agitated"
+      ],
+      "timeframe": "Q2 2023"
+    }
+  },
+  {
+    "title": "Monthly Recurring Revenue Breakdown for Product C",
+    "description": "Provides a detailed breakdown of MRR for Product C across Europe.",
+    "metadata": {
+      "category": "Financial Analysis",
+      "department": "Finance",
+      "tags": [
+        "mrr",
+        "revenue",
+        "Product C"
+      ],
+      "keywords": [
+        "revenue analysis",
+        "product performance",
+        "ick"
+      ],
+      "timeframe": "Q3 2023"
+    }
+  },
+  {
+    "title": "Customer Acquisition Cost by Social Media",
+    "description": "Breaks down customer acquisition costs for Social Media over the last Q3 2023.",
+    "metadata": {
+      "category": "Marketing Analytics",
+      "department": "Marketing",
+      "tags": [
+        "customer-acquisition",
+        "channel-cost",
+        "Social Media"
+      ],
+      "keywords": [
+        "cost breakdown",
+        "channel efficiency",
+        "paltry"
+      ],
+      "timeframe": "Q3 2023"
+    }
+  },
+  {
+    "title": "Monthly Recurring Revenue Breakdown for Product B",
+    "description": "Provides a detailed breakdown of MRR for Product B across Latin America.",
+    "metadata": {
+      "category": "Financial Analysis",
+      "department": "Finance",
+      "tags": [
+        "mrr",
+        "revenue",
+        "Product B"
+      ],
+      "keywords": [
+        "revenue analysis",
+        "product performance",
+        "function"
+      ],
+      "timeframe": "Q2 2023"
     }
   }
 ]

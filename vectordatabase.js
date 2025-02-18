@@ -27,7 +27,7 @@ function calculateCosineSimilarity(vectorA, vectorB) {
   return dotProduct / (magnitudeA * magnitudeB);
 }
 
-module.exports = {
+export {
   findSimilarDocuments,
   calculateCosineSimilarity,
 };

@@ -1,8 +1,10 @@
-require('dotenv').config();
-const { MongoClient } = require("mongodb");
-const readline = require("readline");
-const { pipeline } = require("@xenova/transformers");
-const { findSimilarDocuments } = require("./vectordatabase");
+import dotenv from 'dotenv';
+import { MongoClient } from "mongodb";
+import readline from "readline";
+import { pipeline } from "@xenova/transformers";
+import { findSimilarDocuments } from "./vectordatabase.js";
+
+dotenv.config();
 
 class CSMAgent {
   constructor() {

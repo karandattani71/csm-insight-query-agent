@@ -1,7 +1,9 @@
-require('dotenv').config();
-const fs = require("fs");
-const { pipeline } = require("@xenova/transformers");
-const { MongoClient } = require("mongodb");
+import dotenv from 'dotenv';
+import fs from 'fs';
+import { pipeline } from '@xenova/transformers';
+import { MongoClient } from 'mongodb';
+
+dotenv.config();
 
 const MONGODB_URI = process.env.MONGODB_URI;
 const DB_NAME = process.env.DB_NAME;
@@ -65,6 +67,6 @@ async function createVectorDatabase() {
   }
 }
 
-if (require.main === module) {
+if (import.meta.url === import.meta.resolve('./createVectorDatabase.js')) {
   createVectorDatabase();
 }

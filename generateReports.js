@@ -1,5 +1,5 @@
-const fs = require("fs");
-const { faker } = require("@faker-js/faker");
+import fs from "fs";
+import { faker } from "@faker-js/faker";
 
 const reportTemplates = [
   {
@@ -69,4 +69,7 @@ const generateReports = (numReports = 100) => {
   console.log("Synthetic reports with metadata generated.");
 };
 
-generateReports(100);
+// Run the generator if this is the main module
+if (import.meta.url === import.meta.resolve("./generateReports.js")) {
+  generateReports(100);
+}
